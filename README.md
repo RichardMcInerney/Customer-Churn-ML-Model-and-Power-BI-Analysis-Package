@@ -1,7 +1,7 @@
 <img width="1287" height="720" alt="Screenshot 2026-03-19 104537" src="https://github.com/user-attachments/assets/57bc2fd2-4e7f-4d39-8fd3-aeb80ea5a36a" />
 <img width="1286" height="722" alt="Screenshot 2026-03-19 104517" src="https://github.com/user-attachments/assets/a7af74c3-5bb0-4ea7-967f-02104081da89" />
 <img width="1286" height="723" alt="Screenshot 2026-03-19 104500" src="https://github.com/user-attachments/assets/58790384-548b-4d25-9e24-2c5257086067" />
-# Customer-Churn-ML-Model-and-Power-BI-Analysis-Package
+
 📊 Customer Churn Analytics & Prediction Project
 🚀 Overview
 
