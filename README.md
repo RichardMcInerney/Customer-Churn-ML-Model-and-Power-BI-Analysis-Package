@@ -3,6 +3,7 @@
 <img width="1286" height="723" alt="Screenshot 2026-03-19 104500" src="https://github.com/user-attachments/assets/58790384-548b-4d25-9e24-2c5257086067" />
 
 📊 Customer Churn Analytics & Prediction Project
+
 🚀 Overview
 
 This project delivers an end-to-end customer churn analytics solution, combining machine learning, data modeling, and Power BI dashboards to transform raw data into actionable business insights.
