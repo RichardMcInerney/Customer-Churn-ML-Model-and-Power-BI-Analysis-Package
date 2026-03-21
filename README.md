@@ -109,13 +109,3 @@ Data Analytics | Power BI | Machine Learning
 
 ---
 
-## ⭐ Project Value
-
-This project demonstrates:
-- End-to-end analytics workflow  
-- Integration of ML with BI tools  
-- Business-focused, actionable insights  
-
-👉 Designed for **real-world application, stakeholder engagement, and portfolio showcasing**
-
-
