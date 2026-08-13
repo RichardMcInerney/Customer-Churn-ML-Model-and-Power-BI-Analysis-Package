@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analytics & Prediction Project
+#  Customer Churn Analytics & Prediction Project
 
-## 🚀 Overview
+##  Overview
 
 This project delivers an end-to-end customer churn analytics solution, combining **machine learning, data modeling, and Power BI dashboards** to transform raw data into actionable business insights.
 
@@ -8,29 +8,29 @@ It enables organisations to move from **reactive churn reporting** to **proactiv
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-### 📈 Interactive Power BI Dashboard
+###  Interactive Power BI Dashboard
 - Executive overview of churn metrics  
 - Risk segmentation (Low → Very High)  
 - Customer-level retention insights  
 
-### 🤖 Machine Learning Model
+###  Machine Learning Model
 - Predicts churn probability for each customer  
 - Generates risk bands and retention priorities  
 - Provides interpretable feature importance  
 
-### 📋 Retention Action Framework
+###  Retention Action Framework
 - Identifies Top 100 high-risk customers  
 - Enables targeted intervention strategies  
 
-### 📄 Professional Documentation
+###  Professional Documentation
 - Business analysis report (stakeholder-ready)  
 - Technical ML whitepaper (model explanation)  
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 Customer churn significantly impacts revenue, customer lifetime value, and long-term growth.
 
@@ -42,7 +42,7 @@ This project addresses:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 ![Executive Overview](https://github.com/user-attachments/assets/57bc2fd2-4e7f-4d39-8fd3-aeb80ea5a36a)
@@ -55,7 +55,7 @@ This project addresses:
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 - Data preprocessing and feature engineering  
 - One-hot encoding for categorical variables  
@@ -74,7 +74,7 @@ This project addresses:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - ~26.5% churn rate identified  
 - ~24% of customers classified as high risk  
@@ -84,7 +84,7 @@ This project addresses:
 
 ---
 
-## 🧩 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, Scikit-learn, NumPy)  
 - Machine Learning (Random Forest, Logistic Regression)  
@@ -93,7 +93,7 @@ This project addresses:
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - Customer Lifetime Value (CLV) integration  
 - Real-time churn prediction pipeline  
@@ -102,7 +102,7 @@ This project addresses:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Richard McInerney**  
 Data Analytics | Power BI | Machine Learning  
