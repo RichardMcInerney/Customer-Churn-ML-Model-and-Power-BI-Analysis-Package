@@ -45,13 +45,16 @@ This project addresses:
 ##  Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](https://github.com/user-attachments/assets/57bc2fd2-4e7f-4d39-8fd3-aeb80ea5a36a)
+<img width="1302" height="736" alt="Executive_Overview_v2" src="https://github.com/user-attachments/assets/03fb101a-338c-4308-aeef-b19befd60a14" />
+
 
 ### Retention Action
-![Retention Action](https://github.com/user-attachments/assets/a7af74c3-5bb0-4ea7-967f-02104081da89)
+<img width="1301" height="732" alt="Retention_Action_v2" src="https://github.com/user-attachments/assets/aa819294-dcf7-49e1-b9f4-f40469b20259" />
+
 
 ### ML Model Insights
-![ML Insights](https://github.com/user-attachments/assets/58790384-548b-4d25-9e24-2c5257086067)
+<img width="1301" height="732" alt="ML_Model_Insights_v2" src="https://github.com/user-attachments/assets/f98930f7-f2b5-457a-8ba0-bc5a3cad4c00" />
+
 
 ---
 
