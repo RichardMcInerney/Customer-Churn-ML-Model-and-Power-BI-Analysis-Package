@@ -2,9 +2,9 @@
 
 ##  Overview
 
-This project delivers an end-to-end customer churn analytics solution, combining **machine learning, data modeling, and Power BI dashboards** to transform raw data into actionable business insights.
+This project delivers an end-to-end customer churn analytics solution, combining machine learning, data modeling, and Power BI dashboards to transform raw data into actionable business insights.
 
-It enables organisations to move from **reactive churn reporting** to **proactive, data-driven retention strategies**.
+It enables organisations to move from reactive churn reporting to proactive, data-driven retention strategies.
 
 ---
 
